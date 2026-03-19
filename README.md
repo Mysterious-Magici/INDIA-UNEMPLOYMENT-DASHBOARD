@@ -42,4 +42,4 @@ Dashboard Preview
 
 Akash Karmakar
 Screenshot:
-![Dashboard]()
+![Dashboard](https://github.com/Mysterious-Magici/INDIA-UNEMPLOYMENT-DASHBOARD/blob/main/India_Unemployment_Dashboard_Picture.png)
