@@ -1,0 +1,2 @@
+create database India_Unemployment_Data;
+use India_Unemployment_Data;

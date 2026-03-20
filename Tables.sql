@@ -1,0 +1,1 @@
+SELECT * FROM india_unemployment_data.cleaned_unemployment_data;

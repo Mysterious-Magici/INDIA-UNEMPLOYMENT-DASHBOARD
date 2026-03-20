@@ -1,0 +1,39 @@
+i) Top 5 states with highest unemployment rate
+
+ii) Top 5 states with lowest unemployment rate
+
+iii) Average unemployment rate across all states
+
+iv) State with highest increase in unemployment over time
+
+v) State with most stable (least variation) unemployment rate
+
+vi) Month with highest overall unemployment rate
+
+vii) Month with lowest overall unemployment rate
+
+viii) Year-wise average unemployment trend
+
+ix) Region with highest unemployment rate
+
+x) Region-wise comparison of unemployment rates
+
+xi) Count of states with unemployment rate above national average
+
+xii) Top 3 states with sudden spikes in unemployment
+
+xiii) Median unemployment rate of all states
+
+xiv) State contributing most to total unemployed population
+
+xv) Correlation between time (months/years) and unemployment rate
+
+xvi) Ranking of states based on unemployment rate
+
+xvii) Percentage change in unemployment rate month-over-month
+
+xviii) Identify seasonal patterns in unemployment
+
+xix) Top 5 states with consistent increase in unemployment
+
+xx) Bottom 5 states showing improvement (decreasing unemployment)
