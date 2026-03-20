@@ -1,20 +1,20 @@
 India Unemployment Dashboard Web App
-🚀 Overview
+ Overview
 
 An interactive web application that analyzes unemployment trends across India (2020–2024).
 It provides insights by state, age group, gender, and urban vs rural distribution.
 
-✨ Features
+ Features
 
-📈 Unemployment trend visualization
+ Unemployment trend visualization
 
-🧑‍🤝‍🧑 Youth vs overall unemployment comparison
+ Youth vs overall unemployment comparison
 
-🗺️ State-wise analysis (Top 5 states)
+ State-wise analysis (Top 5 states)
 
-⚖️ Urban vs Rural gap
+ Urban vs Rural gap
 
-👩‍🦰 Gender disparity insights
+ Gender disparity insights
 
 🔮 (Optional) Future prediction using ML
 
@@ -28,17 +28,17 @@ Database: MySQL
 
 Libraries: Pandas, Matplotlib / Plotly
 
-📂 Project Structure
+ Project Structure
 project/
 │── app.py
 │── data/
 │── screenshots/
 │── requirements.txt
 │── README.md
-🖥️ Screenshot
+ Screenshot
 Dashboard Preview
 
-👨‍💻 Author
+ Author
 
 Akash Karmakar
 Screenshot:
