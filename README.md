@@ -16,9 +16,9 @@ It provides insights by state, age group, gender, and urban vs rural distributio
 
  Gender disparity insights
 
-🔮 (Optional) Future prediction using ML
+ (Optional) Future prediction using ML
 
-🛠️ Tech Stack
+ Tech Stack
 
 Frontend: Streamlit
 
@@ -41,5 +41,7 @@ Dashboard Preview
  Author
 
 Akash Karmakar
+
+
 Screenshot:
 ![Dashboard](https://github.com/Mysterious-Magici/INDIA-UNEMPLOYMENT-DASHBOARD/blob/main/India_Unemployment_Dashboard_Picture.png)
